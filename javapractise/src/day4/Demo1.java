@@ -12,6 +12,7 @@ public class Demo1 {
         //Display the contents of the array vertically
         for (int i = 0; i < a.length; i++) {
             System.out.println(a[i]);
+
         }
     }
 }
