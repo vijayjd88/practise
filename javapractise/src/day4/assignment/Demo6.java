@@ -1,0 +1,7 @@
+package day4.assignment;
+
+public class Demo6 {
+    public static void main(String[] args) {
+        System.out.println(FigtoWord.getWords(123456));
+    }
+}
