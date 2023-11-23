@@ -7,7 +7,7 @@ public class Demo3 {
     public static void main(String[] args) {
         Airthmatic [] obj = new Airthmatic[4]; // create 4 refernce to Airthmatic class
         obj[0]= new Addition();
-        obj[1] = new Subtraction();
+        obj[1] =new Subtraction();
         obj[2]= new Multiplication();
         obj[3]= new Division();
         int ch;

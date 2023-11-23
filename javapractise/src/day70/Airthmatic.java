@@ -2,7 +2,7 @@ package day70;
 
 import day2.Read;
 
-public abstract  class Airthmatic implements IAirthmatic{
+public   abstract class Airthmatic implements IAirthmatic{
     int num1;
     int num2;
     int num3;
