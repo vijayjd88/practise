@@ -37,7 +37,7 @@ public class EmployeeLeave {
                         break;
                     case 2:
 
-                        map.keySet().forEach((x)->{
+                      //  map.keySet().forEach((x)->{
                             //System.out.println(map.get(x));
 
                             for(Map.Entry<String , Employee> ent : map.entrySet()){
@@ -47,29 +47,24 @@ public class EmployeeLeave {
                                     e.setLve_availed(map.get(ent.getKey()).lve_availed);
                                     e.setLve_request(map.get(ent.getKey()).lve_request);
                                     leavegranted.add(e);
-                                    System.out.println( "Mr." + ent.getKey()+" you are eligible for leave as ou Leave Availed : "+map.get(ent.getKey()).lve_availed+" Leave Requested : "+ map.get(ent.getKey()).lve_request);
+                                    System.out.println( "Mr." + ent.getKey()+" you are eligible for leave ,   Leave Availed : "+map.get(ent.getKey()).lve_availed+" Leave Requested : "+ map.get(ent.getKey()).lve_request);
                                 }else{
-                                    System.out.println( "Mr." + ent.getKey()+"  not eligible for leave, please report to Drill Square : "+map.get(ent.getKey()).lve_availed+" Leave Requested : "+ map.get(ent.getKey()).lve_request);
+                                    System.out.println( "Mr." + ent.getKey()+"  You not eligible for leave, please report to Drill Square : "+map.get(ent.getKey()).lve_availed+" Leave Requested : "+ map.get(ent.getKey()).lve_request);
                                 }
-
-
 
                             }
                            /* if((ob.getLve_availed()+ob.getLve_request())<MAX_LEAVES){
                                 leavegranted.add(map.get(x));
                             }*/
-                        });
+                     //   });
 
-
-//                        }
-                        System.out.println(" Enter the name to display ");
-                        System.out.println(map.get(Read.sc.nextLine()));
                         break;
                     case 3:
-                        System.out.println("Leave granted for " + leavegranted);
-                        map.keySet().forEach((x) -> {
-                            System.out.println(map.get(x));
-                        });
+                        System.out.println("Leave granted to :  " + leavegranted);
+                       // map.keySet().forEach((x) -> {
+                         //   System.out.println(map.get(x));
+                      //  });
+                        System.out.println(leavegranted);
                         break;
                     case 4:
                         map.keySet().forEach((x)->{
