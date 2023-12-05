@@ -1,14 +1,17 @@
 package day3;
 
+import java.util.Arrays;
+
 public class Demo3 {
 
     public static void main(String[] args) {
 
         String s1 = "This is a book";
-        String s2[]= s1.split(" ");  // {[this , is ]}
-        for(int i = 0 ; i<s2.length;i++){
+        String s2= Arrays.toString(s1.split(" "));
+        System.out.println(s2);// {[this , is ]}
+       /* for(int i = 0 ; i<s2.length;i++){
             System.out.println(s2[i]);
-        }
+        }*/
         String sql = "select fname, lname from sdetail";
 
         String tname[] = sql.split("from");

@@ -18,14 +18,13 @@ public class Assignment3Prime {
                     // System.out.println("Number is not prime");
                     break;
                 }
-
             }
             if (flag) {
                 System.out.println("Number is not prime");
             } else {
                 System.out.println("Number is prime");
             }
-                //System.out.println("Number is prime");
+                // System.out.println("Number is prime");
             }
         }
     }
