@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="moduleExport" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5ed5951-9bc1-4f8e-a92a-91ae26393777" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/moduleExport.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Module Export.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java Module Export/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java Module Export/org/jpmc/training/main/Demo1TO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java Module Export/org/jpmc/training/to/StudentTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/jpmc/training/main/Demo1TO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/jpmc/training/to/StudentTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/src/main/java/org/example/assets/PreDefinedConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/src/main/java/org/example/dao/DbConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/src/main/java/org/example/dao/StatementDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/src/main/java/org/example/dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/src/main/java/org/example/dao/StudentMarksDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/src/main/java/org/example/dao/StudentMarksDAO1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/src/main/java/org/example/main/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/src/main/java/org/example/main/JoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/src/main/java/org/example/main/JoinDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/src/main/java/org/example/main/JoinDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/src/main/java/org/example/main/StatementMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/src/main/java/org/example/to/StudentTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDatabase3/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Z9d7RkRWLWKrOEGPHfMgPhRXth" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/ubuntu/Desktop/Handson/corejava/corejavahandson/javapractise/JavaDatabase3",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5ed5951-9bc1-4f8e-a92a-91ae26393777" name="Changes" comment="" />
+      <created>1701838064165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701838064165</updated>
+    </task>
+    <servers />
+  </component>
+</project>
